@@ -1,6 +1,6 @@
 # Software Barbeiro - 1ª Avaliação Prática Web 4
 
-Software de agendamento para atendimento em barbearia. 
+Software para agendamento de atendimento em barbearia. 
 
 ## Wireframes:  
 
