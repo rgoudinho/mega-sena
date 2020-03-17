@@ -1,7 +1,6 @@
-# Software Barbeiro - 1ª Avaliação Prática Web 4
+# Simulador mega Sena - 1ª Avaliação Prática Web 4
 
-Software para agendamento de atendimento em barbearia. 
-
+Simulador de sorteios da mega.
 ## Wireframes:  
 
 - [ ] Quant-UX
