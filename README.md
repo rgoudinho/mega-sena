@@ -1,6 +1,6 @@
 # Simulador mega Sena - 1ª Avaliação Prática Web 4
 
-Simulador de sorteios da mega.
+Simulador de sorteios da mega sena.
 ## Wireframes:  
 
 - [ ] Quant-UX
