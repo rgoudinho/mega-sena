@@ -3,8 +3,7 @@
 Simulador de sorteios da mega sena.
 ## Wireframes:  
 
-- [x] Quant-UX
-https://www.quant-ux.com/#/apps/5e81d843e2fb5351b8e9954d.html
+- [] Quant-UX
 
 ## Encaminhamento e redirecionamento
 
